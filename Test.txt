@@ -25,3 +25,5 @@ https://bby-uat.rbmfrontline.com/admin/skuter_runs
 Added this line and delete the above
 
 New change on BugFix
+
+Changed the new bug fix branch

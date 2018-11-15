@@ -1,0 +1,29 @@
+https://bby-uat.rbmfrontline.com/imports/status?mode=admin
+
+https://bby-uat.rbmfrontline.com/setup/location_self_serve/
+
+https://bby-uat.rbmfrontline.com/setup/batches/files
+
+https://bby-uat.rbmfrontline.com/admin/skuter_runs
+
+
+//*[@id="ui-id-1"]
+
+//button[@type='button']//span[(@class='ui-button-text' and (text(),ACKNOWLEDGE')]
+
+
+
+//button//span[(@class='ui-button-text') and (text()='ACKNOWLEDGE')]
+
+
+
+
+//div[starts-with(@class,'announcement_modal')]
+
+
+
+Added this line and delete the above
+
+New change on BugFix
+
+Changed the new bug fix branch
